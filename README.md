@@ -1,5 +1,5 @@
 <!-- MaRa(gi) (C)-->
-## I Am Maragi, A Skilled Self-Taught Developer, Ethical Hacker, Musician, CEO and Artist.
+## I Am [Maragi](https://maragi.atwebpages.com), A _Skilled Self-Taught Developer, Ethical Hacker, Musician, CEO and Artist._
 
 Hello everyone,
 my name is **Maragi**, also Refered to as **Joseph Frost** and I want to share a bit about myself.
