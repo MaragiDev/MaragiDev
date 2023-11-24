@@ -1,10 +1,10 @@
 <!-- MaRa(gi) (C)-->
 ## I Am [Maragi](https://maragi.atwebpages.com), A _Skilled Self-Taught Developer, Ethical Hacker, Musician, CEO and Artist._
 
-Hello everyone,
-my name is **Maragi**, also Refered to as **Joseph Frost** and I want to share a bit about myself.
-I am a skilled self-taught developer, ethical hacker, musician, CEO, and artist.
-Let's **dive into what each of these roles means to me:**
+###Hello everyone,
+###my name is **Maragi**, also Refered to as **Joseph Frost** and I want to share a bit about myself.
+###I am a skilled self-taught developer, ethical hacker, musician, CEO, and artist.
+###Let's **dive into what each of these roles means to me:**
 
 As a **self-taught developer**, I have taken it upon myself to **learn programming languages and frameworks.**
 I have _honed my skills in web development, mobile app development, or any other area that interests me._
