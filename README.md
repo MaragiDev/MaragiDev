@@ -1,5 +1,6 @@
 <!-- MaRa(gi) (C)-->
-## I Am [Maragi](https://maragi.atwebpages.com), A _Skilled Self-Taught Developer, Ethical Hacker, Musician, CEO and Artist._
+# I Am [Maragi](https://maragi.atwebpages.com),
+## A _Skilled Self-Taught Developer, Ethical Hacker, Musician, CEO and Artist._
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md)](https://skillicons.dev)
 
