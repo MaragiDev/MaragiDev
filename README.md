@@ -1,7 +1,7 @@
 <!-- MaRa(gi) (C)-->
 ## I Am [Maragi](https://maragi.atwebpages.com), A _Skilled Self-Taught Developer, Ethical Hacker, Musician, CEO and Artist._
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,js,py)](https://skillicons.dev)
 
 ### Hello everyone, my name is **Maragi**, also Refered to as **Joseph Frost** and I want to share a bit about myself. I am a skilled self-taught developer, ethical hacker, musician, CEO, and artist. Let's **dive into what each of these roles means to me:**
 
