@@ -4,6 +4,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md)](https://maragi.is-cool.dev)
 
-I am a **self-taught developer**, i started getting into computing when i was young, 
+I am a **self-taught developer**, i started getting into computing when i was young,<br>
 **exploring the world of music.**,
 **identify as an artist.**
