@@ -13,4 +13,4 @@ I **Create my own artwork**, i dont like paying for things, so i create my own a
 Everything i make is **free of charge**, I dont like paying for things online,<br>
 i try my hardest to find free alternatives that work and sometimes make my own applications that are free of charge for others to use.<br>
 <br>
-**my ambition** as a developer is to create a organised group of developers that can work together with me, I love working with others and being socialable.
+**My ambition** as a developer is to create a organised group of developers that can work together with me, I love working with others and being socialable.
