@@ -2,7 +2,7 @@
 # I Am [Maragi](https://maragi.is-cool.dev),
 ## A _Skilled Self-Taught Developer, Musician and Artist._
 
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bbcode)](https://maragi.is-cool.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bb)](https://maragi.is-cool.dev)
 
 I am a **self-taught developer**, i started getting into computing when i was young, and i started building html apps and extended to exploring diffrent programming languages.<br>
 <br>
