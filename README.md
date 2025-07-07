@@ -1,6 +1,6 @@
 <!-- MaRa(gi) (C)-->
-# I Am [Maragi](https://maragi.is-cool.dev),
-## A _Skilled Self-Taught Developer, Musician and Artist._
+# I Am [Maragi](https://maragi.is-cool.dev)
+## A _Skilled Self-Taught Developer, Musician and Artist_
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bootstrap,cs,express,robloxstudio)](https://maragi.is-cool.dev)
 
