@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bootstrap,cs,express,robloxstudio)](https://maragi.is-cool.dev)
 
-[![Maragi Is Online or Offline Right Now](https://uhhdb.maragi.is-cool.dev/maragi_pc/heartbeat/image)]
+![Maragi Is Online or Offline Right Now](https://uhhdb.maragi.is-cool.dev/maragi_pc/heartbeat/image)
 
 I am a **self-taught developer**, i started getting into computing when i was young, and i started building HTML apps and extended to exploring different programming languages.<br>
 <br>
