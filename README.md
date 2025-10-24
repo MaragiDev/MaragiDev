@@ -5,9 +5,10 @@
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bootstrap,cs,express,robloxstudio)](https://maragi.is-cool.dev)
 
 <img src="https://uhhdb.maragi.is-cool.dev/maragi_pc/heartbeat/image" alt="Im either Online Or Offline." width="250" />
-This Image is directly correlated with when my PC is online or offline.
-If it says im **online**, try Emailing me at admin@maragi.is-cool.dev, while if it says im **offline** maybe wait untill it says im online.
 
+This Image is directly correlated with when my PC is online or offline.<br>
+If it says im **online**, try Emailing me at `admin@maragi.is-cool.dev`, while if it says im **offline** maybe wait untill it says im online.<br>
+<br>
 I am a **self-taught developer**, i started getting into computing when i was young, and i started building HTML apps and extended to exploring different programming languages.<br>
 <br>
 I sometimes **explore the world of music and create my own**, when im bored i have other passions, one of them includes creating music and writing lyrics.<br>
