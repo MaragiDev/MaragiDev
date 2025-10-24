@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bootstrap,cs,express,robloxstudio)](https://maragi.is-cool.dev)
 
-<img src="https://uhhdb.maragi.is-cool.dev/maragi_pc/heartbeat/image" alt="Im either Online Or Offline." width="300" />
+<img src="https://uhhdb.maragi.is-cool.dev/maragi_pc/heartbeat/image" alt="Im either Online Or Offline." width="250" />
 
 I am a **self-taught developer**, i started getting into computing when i was young, and i started building HTML apps and extended to exploring different programming languages.<br>
 <br>
