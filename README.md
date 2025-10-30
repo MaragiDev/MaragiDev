@@ -19,3 +19,9 @@ Everything i make or the services i offer are **free of charge**, I dont like pa
 I try my hardest to find free alternatives that work and sometimes make my own applications that are free of charge for others to use.<br>
 <br>
 **My ambition** as a developer is to soley help others and make a sense of community that people feel they can be themselves in, I love working with others and being socialable.
+
+<hr>
+
+# Organizations I Own
+
+<a href="https://github.com/Associated-Realms-Essentials">https://github.com/Associated-Realms-Essentials</a>
