@@ -22,6 +22,8 @@ I try my hardest to find free alternatives that work and sometimes make my own a
 
 <hr>
 
-# Organizations I Own
+# Organizations I Work For
 
-<a href="https://github.com/Associated-Realms-Essentials">https://github.com/Associated-Realms-Essentials</a>
+<a href="https://github.com/Associated-Realms-Essentials">Associated Realms Essentials (CEO)</a>
+<a href="https://github.com/realmcenter">Realm Center (Developer)</a>
+<a href="https://github.com/Realm-Bot">Realm Bot (Developer And Moderator)</a>
