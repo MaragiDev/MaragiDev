@@ -20,7 +20,7 @@ I try my hardest to find free alternatives that work and sometimes make my own a
 <br>
 **My ambition** as a developer is to soley help others and make a sense of community that people feel they can be themselves in, I love working with others and being socialable.
 <hr>
-<a href="bitcoin:bc1q30gafmgs9cdcp4tfg5gzns74tlrgh2lfc8tp6excncal89azuusqzgj909?message=Donate%20as%20much%20as%20you%20want%20to%20MARAGI%2C%20any%20little%20helps.">Donate any amount of bitcoin to me: bc1q30gafmgs9cdcp4tfg5gzns74tlrgh2lfc8tp6excncal89azuusqzgj909</a>
+[Donate any amount of bitcoin to me: bc1q30gafmgs9cdcp4tfg5gzns74tlrgh2lfc8tp6excncal89azuusqzgj909](bitcoin:bc1q30gafmgs9cdcp4tfg5gzns74tlrgh2lfc8tp6excncal89azuusqzgj909?message=Donate%20as%20much%20as%20you%20want%20to%20MARAGI%2C%20any%20little%20helps.)
 <hr>
 
 # Organizations I Work For
