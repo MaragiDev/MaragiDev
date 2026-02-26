@@ -1,4 +1,4 @@
-<!-- MaRaGI (C)-->
+<!-- MARAGI -->
 # I Am [Maragi](https://maragi.is-cool.dev), someone who Makes and Rules a Great Initative.
 ## A Self-Taught Developer, Musician, Project Leader, Digital Artist, Photographer, Observationist, Innovationist, Strategist and Altruist.
 
@@ -20,7 +20,7 @@ I try my hardest to find free alternatives that work and sometimes make my own a
 <br>
 **My ambition** as a developer is to soley help others and make a sense of community that people feel they can be themselves in, I love working with others and being socialable.
 <hr>
-To donate any amount of bitcoin to support the initiative, [click here](https://maragi.is-cool.dev/bitcoin.php)
+To donate any amount of bitcoin to support the initiative, <a href="https://maragi.is-cool.dev/bitcoin.php">click here</a>
 <hr>
 
 # Organizations I Work For
