@@ -7,7 +7,7 @@
 <a href="https://maragi.dev/activity.php"><img src="https://uhhdb.maragi.dev/maragi_pc/heartbeat/image" alt="Im either Online Or Offline." width="250" /></a>
 
 This Image is directly correlated with when my PC is online or offline.<br>
-If it says im **online**, try Emailing me at `admin@maragi.is-cool.dev`, while if it says im **offline** maybe wait untill it says im online.<br>
+If it says im **online**, try Emailing me at `admin@maragi.dev`, while if it says im **offline** maybe wait untill it says im online.<br>
 <br>
 I am a **self-taught developer**, i started getting into computing when i was young, and i started building HTML apps and extended to exploring different programming languages.<br>
 <br>
