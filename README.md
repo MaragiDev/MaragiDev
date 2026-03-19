@@ -1,10 +1,10 @@
 <!-- MARAGI -->
-# I Am [Maragi](https://maragi.is-cool.dev), someone who Makes and Rules a Great Initative.
+# I Am [Maragi](https://maragi.dev), someone who Makes and Rules a Great Initative.
 ## A Self-Taught Developer, Musician, Project Leader, Digital Artist, Photographer, Observationist, Innovationist, Strategist and Altruist.
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bootstrap,cs,express,robloxstudio)](https://maragi.is-cool.dev)
 
-<a href="https://maragi.is-cool.dev/activity.php"><img src="https://uhhdb.maragi.is-cool.dev/maragi_pc/heartbeat/image" alt="Im either Online Or Offline." width="250" /></a>
+<a href="https://maragi.dev/activity.php"><img src="https://uhhdb.maragi.dev/maragi_pc/heartbeat/image" alt="Im either Online Or Offline." width="250" /></a>
 
 This Image is directly correlated with when my PC is online or offline.<br>
 If it says im **online**, try Emailing me at `admin@maragi.is-cool.dev`, while if it says im **offline** maybe wait untill it says im online.<br>
