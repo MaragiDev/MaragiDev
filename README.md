@@ -2,7 +2,7 @@
 # I Am [Maragi](https://maragi.dev), someone who Makes and Rules a Great Initative.
 ## A Self-Taught Developer, Musician, Project Leader, Digital Artist, Photographer, Observationist, Innovationist, Strategist and Altruist.
 
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bootstrap,cs,express,robloxstudio)](https://maragi.is-cool.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bootstrap,cs,express,robloxstudio)](https://maragi.dev)
 
 <a href="https://maragi.dev/activity.php"><img src="https://uhhdb.maragi.dev/maragi_pc/heartbeat/image" alt="Im either Online Or Offline." width="250" /></a>
 
