@@ -15,12 +15,12 @@ I sometimes **explore the world of music and create my own**, when im bored I ha
 <br>
 I **Create my own artwork**, I dont like paying for things, so I create my own artwork and logos.<br>
 <br>
-Everything I make or the services I offer are **free of charge**, I dont like paying for things online.<br>
+Everything I make or the things I offer to others on my socials or publically on my website are **free of charge**, I dont like paying for things online.<br>
 I try my hardest to find free alternatives that work and sometimes make my own applications that are free of charge for others to use.<br>
 <br>
-**My ambition** as a developer is to soley help others and make a sense of community that people feel they can be themselves in, I love working with others and being socialable.
+**My ambition** as a developer, is to soley help others and make a sense of community that people feel they can be themselves in, I love working with others and being socialable.
 <hr>
-To donate any amount of bitcoin to support the initiative, <a href="https://maragi.dev/donate.php">click here</a>
+You can donate to me if you feel inspired or like the work im doing, <a href="https://maragi.dev/donate.php">click here</a>
 <hr>
 
 # Organizations I Work For
