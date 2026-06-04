@@ -23,7 +23,7 @@ I try my hardest to find free alternatives that work and sometimes make my own a
 You can donate to me if you feel inspired or like the work im doing, <a href="https://maragi.dev/donate.php">click here</a>
 <hr>
 
-# Organizations I Work For
+# Organizations I Work For As An Invididual
 
 <a href="https://github.com/Associated-Realms-Essentials">Associated Realms Essentials (CEO)</a><br>
 <a href="https://github.com/realmcenter">Realm Center (Developer)</a><br>
