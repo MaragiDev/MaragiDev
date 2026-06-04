@@ -1,5 +1,5 @@
 <!-- MARAGI -->
-# I Am [Maragi](https://maragi.dev), someone who Makes and Rules a Great Initative.
+# I Am [Maragi](https://maragi.dev), also known as Joseph Frost, someone who Makes and Rules a Great Initative.
 ## A Self-Taught Developer, Musician, Project Leader, Digital Artist, Photographer, Observationist, Innovationist, Strategist and Altruist.
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,ts,js,py,md,bootstrap,cs,express,robloxstudio)](https://maragi.dev)
@@ -9,18 +9,18 @@
 This Image is directly correlated with when my PC is online or offline.<br>
 If it says im **online**, try Emailing me at `admin@maragi.dev`, while if it says im **offline** maybe wait untill it says im online.<br>
 <br>
-I am a **self-taught developer**, i started getting into computing when i was young, and i started building HTML apps and extended to exploring different programming languages.<br>
+I am a **self-taught developer**, I started getting into computing when I was young, and I started building HTML apps and extended to exploring different programming languages.<br>
 <br>
-I sometimes **explore the world of music and create my own**, when im bored i have other passions, one of them includes creating music and writing lyrics.<br>
+I sometimes **explore the world of music and create my own**, when im bored I have other passions, one of them includes creating music and writing lyrics.<br>
 <br>
-I **Create my own artwork**, i dont like paying for things, so i create my own artwork and logos.<br>
+I **Create my own artwork**, I dont like paying for things, so I create my own artwork and logos.<br>
 <br>
-Everything i make or the services i offer are **free of charge**, I dont like paying for things online.<br>
+Everything I make or the services I offer are **free of charge**, I dont like paying for things online.<br>
 I try my hardest to find free alternatives that work and sometimes make my own applications that are free of charge for others to use.<br>
 <br>
 **My ambition** as a developer is to soley help others and make a sense of community that people feel they can be themselves in, I love working with others and being socialable.
 <hr>
-To donate any amount of bitcoin to support the initiative, <a href="https://maragi.dev/bitcoin.php">click here</a>
+To donate any amount of bitcoin to support the initiative, <a href="https://maragi.dev/donate.php">click here</a>
 <hr>
 
 # Organizations I Work For
